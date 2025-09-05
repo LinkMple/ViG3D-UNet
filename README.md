@@ -13,7 +13,7 @@ IEEE Journal of Biomedical and Health Informatics ([JBHI]https://www.embs.org/jb
 
 ## TO DO
 
--[ ]Inference code is coming soon!
+- [ ]Inference code is coming soon!
 -[ ]Training stage code
 
 
