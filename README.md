@@ -9,8 +9,10 @@ IEEE Journal of Biomedical and Health Informatics ([JBHI]https://www.embs.org/jb
 
 ## News
 
-2025.04.12 Initial Submission on IEEE JBHI。 
+
 2025.09.04: Accepted by IEEE JBHI.
+
+2025.04.12 Initial Submission on IEEE JBHI.
 
 ## Checklist
 
@@ -18,9 +20,22 @@ IEEE Journal of Biomedical and Health Informatics ([JBHI]https://www.embs.org/jb
 - [ ] Release ViG3D-UNet_Large and ViG3D-UNet_Large_medium checkpoints.
 - [ ] Training  code.
 
+## How to use ViG3D-UNet
+### 1. Requirements
+
+### 2. Installation
+
+### 3. Inference
+
+### 4.Training
+
+### 5.Evaluation
+
 
 ## Contributions
+**This project is still under development. Please feel free to raise issues or submit pull requests to contribute to our codebase.**
+
 Some insights about 3D CNN module is originated from [nnUNet](https://github.com/MIC-DKFZ/nnUNet) and the 3D Vision GNN(ViG3D) module is originated from [Vision GNN](https://github.com/huawei-noah/Efficient-AI-Backbones).
 
 ## Citation
-Some insights about neural voxel grids and dynamic scenes reconstruction originate from [TiNeuVox](https://github.com/hustvl/TiNeuVox). If you find this repository/work helpful in your research, welcome to cite these papers and give a ⭐.
+If you find this repository/work helpful in your research, welcome to cite these papers and give a ⭐.
