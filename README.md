@@ -16,11 +16,11 @@ IEEE Journal of Biomedical and Health Informatics ([JBHI]https://www.embs.org/jb
 
 ## Checklist
 
-- [ ] Inference code is coming soon!
+- [ ] Inference code is coming SOON(in just few days)!
 - [ ] Release ViG3D-UNet_Large and ViG3D-UNet_Large_medium checkpoints.
 - [ ] Training  code.
 
-## How to use ViG3D-UNet
+## How to use ViG3D-UNet(To be done...)
 ### 1. Requirements
 
 ### 2. Installation
