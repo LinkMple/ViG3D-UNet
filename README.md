@@ -10,7 +10,7 @@ IEEE Journal of Biomedical and Health Informatics ([JBHI]https://www.embs.org/jb
 ## News
 
 
-2025.09.04: Accepted by IEEE JBHI.
+2025.09.04 🌟 Accepted by IEEE JBHI.
 
 2025.04.12 Initial Submission on IEEE JBHI.
 
