@@ -12,8 +12,10 @@ IEEE Journal of Biomedical and Health Informatics ([JBHI]https://www.embs.org/jb
 2025.9.04: Accepted by IEEE JBHI.
 
 ## TO DO
-[ ]Training stage code
-[ ]Inference code is coming soon!
+
+-[ ]Inference code is coming soon!
+-[ ]Training stage code
+
 
 ## Contributions
 Some source code of ours is borrowed from [nnUNet](https://github.com/MIC-DKFZ/nnUNet),[Vision GNN](https://github.com/huawei-noah/Efficient-AI-Backbones).
