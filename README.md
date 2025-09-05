@@ -9,14 +9,18 @@ IEEE Journal of Biomedical and Health Informatics ([JBHI]https://www.embs.org/jb
 
 ## News
 
-2025.9.04: Accepted by IEEE JBHI.
+2025.04.12 Initial Submission on IEEE JBHI。 
+2025.09.04: Accepted by IEEE JBHI.
 
-## TO DO
+## Checklist
 
 - [ ] Inference code is coming soon!
-- [ ] Training stage code
+- [ ] Release ViG3D-UNet_Large and ViG3D-UNet_Large_medium checkpoints.
+- [ ] Training  code.
 
 
 ## Contributions
-Some source code of ours is borrowed from [nnUNet](https://github.com/MIC-DKFZ/nnUNet),[Vision GNN](https://github.com/huawei-noah/Efficient-AI-Backbones).
+Some insights about 3D CNN module is originated from [nnUNet](https://github.com/MIC-DKFZ/nnUNet) and the 3D Vision GNN(ViG3D) module is originated from [Vision GNN](https://github.com/huawei-noah/Efficient-AI-Backbones).
 
+## Citation
+Some insights about neural voxel grids and dynamic scenes reconstruction originate from [TiNeuVox](https://github.com/hustvl/TiNeuVox). If you find this repository/work helpful in your research, welcome to cite these papers and give a ⭐.
