@@ -9,14 +9,15 @@ IEEE Journal of Biomedical and Health Informatics (https://ieeexplore.ieee.org/d
 
 ## News
 
+2025.09.10 Early Access on IEEE Eplore.
 
 2025.09.04 🌟 Accepted by IEEE JBHI.
 
 2025.04.12 Initial Submission on IEEE JBHI.
 
 ## Checklist
-
-- [ ] Inference code is coming SOON(in just few days)!
+- ✅ Model Source code release.
+- [ ] Inference code is coming SOON 
 - [ ] Release ViG3D-UNet_Large and ViG3D-UNet_Large_medium checkpoints.
 - [ ] Training  code.
 
