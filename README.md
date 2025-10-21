@@ -5,7 +5,7 @@ This repository provides the offical Pytorch implementation of ViG3D-UNet in the
 **ViG3D-UNet: Volumetric Vascular Connectivity-Aware Segmentation via 3D Vision Graph Representation**<br/>
 Bowen Liu, Chunlei Meng, Wei Lin, Hongda Zhang, Ziqing Zhou, Zhongxue Gan, Chun Ouyang<br/>
 Fudan University<br/>
-IEEE Journal of Biomedical and Health Informatics ([JBHI]https://www.embs.org/jbhi/)<br/>
+IEEE Journal of Biomedical and Health Informatics (https://ieeexplore.ieee.org/document/11155174)<br/>
 
 ## News
 
